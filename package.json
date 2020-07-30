@@ -2,7 +2,9 @@
   "name": "express-react-lerna",
   "private": true,
   "scripts": {
-    "start": "lerna run start --stream"
+    "start": "lerna run start --stream",
+    "lint": "lerna run lint --stream",
+    "lint:fix": "lerna run lint:fix --stream"
   },
   "devDependencies": {
     "lerna": "^3.22.1"
