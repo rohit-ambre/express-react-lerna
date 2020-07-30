@@ -1,0 +1,10 @@
+{
+  "name": "express-react-lerna",
+  "private": true,
+  "scripts": {
+    "start": "lerna run start --stream"
+  },
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
