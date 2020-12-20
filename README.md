@@ -2,7 +2,7 @@
 
 It is a Boilerplate starter kit for Javascript application with [Express](https://expressjs.com "ExpressJS") in backend and [React](https://reactjs.org "ReactJS") (Typescript) in frontend bootstrapped with [lerna](https://github.com/lerna/lerna "Lerna").
 
-front-end and back-end both uses `ESlint` for JavaScript common syntax errors and `Prettier` for style issues and automatically reformats your code to ensure consistent rules are being followed.
+front-end and back-end both uses `ESlint` for JavaScript common syntax errors and `Prettier` for code styling issues and automatically reformats your code to ensure consistent rules are being followed.
 
 ***
 ### Getting Started :zap:
